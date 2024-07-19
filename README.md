@@ -1,5 +1,7 @@
 ### VUE-2 
 *задание*
+[https://nikitazirko.github.io/homework/](https://nikitazirko.github.io/homework/ "")
+
 #### Создать форму для вычисления сумм дробей:
 
 - нужно сверстать форму, в которой будут поля для заполнения дробями.
