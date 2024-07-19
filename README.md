@@ -1,6 +1,6 @@
 ### VUE-2 
-*задание*
-[https://nikitazirko.github.io/homework/](https://nikitazirko.github.io/homework/ "")
+*задание*<br>
+[Решение](https://nikitazirko.github.io/homework/ "")
 
 #### Создать форму для вычисления сумм дробей:
 
